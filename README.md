@@ -85,3 +85,11 @@ Multi-Tenant-FAQ-Chatbot/
 ├── check_ast.py
 ├── search.py
 └── README.md
+
+## 👨‍💻 Author
+
+Developed by **Anuj Yadav**
+
+GitHub: [ianuj-yadav](https://github.com/ianuj-yadav/)
+
+This project was created as a full-stack Multi-Tenant FAQ Chatbot and Admin Portal using FastAPI, SQLite, PostgreSQL, HTML, CSS, and JavaScript.
