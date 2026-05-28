@@ -56,6 +56,7 @@ This project is designed to help companies manage their own FAQ knowledge base, 
 
 ---
 
+
 ## 📁 Project Structure
 
 ```bash
